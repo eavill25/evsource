@@ -1,0 +1,28 @@
+header {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.image_carousel{
+  padding: 10px;
+  border: solid 1px red;
+}
+.image-carousel-selector{
+ 
+  padding: 10px;
+  
+  text-align: center;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.image-carousel-presenter{
+
+  
+  text-align: center;
+
+  margin-left: auto;
+  margin-right: auto;
+}
